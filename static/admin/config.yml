@@ -1,5 +1,5 @@
 backend:
-  name: dhonysilva
+  name: github
   repo: dhonysilva/gatsby-blog
 
 media_folder: content/assets
