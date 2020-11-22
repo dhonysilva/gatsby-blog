@@ -1,6 +1,6 @@
 backend:
   name: dhonysilva
-  repo: dhonysilva/gatsby-personal-starter-blog
+  repo: dhonysilva/gatsby-blog
 
 media_folder: content/assets
 public_folder: ../assets
